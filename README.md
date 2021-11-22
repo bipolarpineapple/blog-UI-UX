@@ -1,2 +1,2 @@
 # blog-UI-UX
-A mini project dedicated for blog UI/UX with Figma.
+A mini project dedicated for blog UI/UX.
